@@ -2,7 +2,7 @@ Welcome to MovieFinder !
 ===================
 
 
-Nous sommes fières de vous présenter ma première application **MovieFinder**[^stackedit]. Le but principal était de se familiariser avec ionic 1 et angular 1 
+Nous sommes fières de vous présenter ma première application **MovieFinder**. Le but principal était de se familiariser avec ionic 1 et angular 1 
 
 ----------
 
@@ -14,4 +14,4 @@ MovieFinder à été lancé en live avec les commandes suivantes :
 > **Note:**
 
 > - nvm use nodejs v4.2.0
-> - ionic  -serve.
+> - ionic  serve.
