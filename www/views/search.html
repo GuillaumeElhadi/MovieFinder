@@ -1,0 +1,17 @@
+<ion-view view-title="Recherche">
+
+<ion-content ng-controller="SearchController">
+<div class="list list-inset">
+  <label class="item item-input">
+    <i class="icon ion-search placeholder-icon"></i>
+    <input type="text" placeholder="Exemple : Titanic" ng-model="searchText">
+  </label>
+</div>
+
+ <div ng-repeat="data in datas | filter:{ email: searchText}">
+ 	<div ng-if="searchText">
+ 		{{ data }}
+ 	</div>
+
+</ion-content>
+</ion-view>

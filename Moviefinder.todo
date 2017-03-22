@@ -1,0 +1,12 @@
+Design:
+ ☐ changer la couleur du background du menu sur la gauche  ( mettre la meme couleur que la navbar blue nuit)
+ ☐ Finir la page " a propos "
+ ☐ item .item-${'color'} mettre height a la meme hauteur que la navbar
+ ☐ Mise en forme des " 4 derniers films "
+ ☐ Changement page d'accueil, utilisation d'api ( recuperation title/photo/description et date de sortie )
+ ☐ mise en forme du résultat de recherche
+
+ Logique:
+  ✔ Mettre en place le system de recherche en ajax @done (17-03-16 00:39)
+  ☐ ajoutez  une checkbox pour trié par film ou acteur (http://ionicframework.com/docs/components/#toggle)
+  

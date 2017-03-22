@@ -1,0 +1,16 @@
+/* Empty. Add your own CSS if you like */
+.mf_navbar{
+	background-color:#2C3E50;
+	color:white;
+}
+/*
+2C3E50 bleu
+*/
+.mf_card{
+	background-color: #4A6D8C !important;
+	color:white;
+}
+
+.mf_bg{
+	background-color: #D7DADB;
+}
