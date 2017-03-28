@@ -2,7 +2,7 @@ Welcome to MovieFinder !
 ===================
 
 
-Nous sommes fières de vous présenter ma première application **MovieFinder**. Le but principal était de se familiariser avec ionic 1 et angular 1 
+Je suis fière de vous présenter ma première application **MovieFinder**. Le but principal était de se familiariser avec ionic 1 et angular 1 
 
 ----------
 
