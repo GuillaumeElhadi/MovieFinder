@@ -8,6 +8,8 @@ patch:
         patched: '2020-06-20T06:47:04.835Z'
     - gulp-sass > node-sass > gaze > globule > lodash:
         patched: '2020-06-20T06:47:04.835Z'
+    - gulp-sass > node-sass > lodash:
+        patched: '2020-06-20T06:49:40.676Z'
   'npm:minimatch:20160620':
     - gulp > vinyl-fs > glob-stream > minimatch:
         patched: '2020-06-20T06:47:04.835Z'
